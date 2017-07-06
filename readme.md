@@ -1,5 +1,3 @@
 # JS-journey
 
-This is my journey dog.
-
-Testing
+You meant this is your barney.
